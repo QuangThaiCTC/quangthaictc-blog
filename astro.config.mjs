@@ -30,7 +30,7 @@ import config from './src/site.config.ts'
 // https://astro.build/config
 export default defineConfig({
   // Top-Level Options
-  site: 'https://quangthaictc.github.io',
+  site: 'https://quangthaictc-blog-b457568ae63b.herokuapp.com/',
   // base: '/docs',
   trailingSlash: 'never',
 
